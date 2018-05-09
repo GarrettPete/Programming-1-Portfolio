@@ -1,4 +1,4 @@
-# Programming-1-Portfolio
+# Programming 1 Portfolio
 <br>
 Garrett Petersen B1
 <br>
