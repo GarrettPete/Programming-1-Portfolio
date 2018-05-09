@@ -1,6 +1,6 @@
 # Programming-1-Portfolio
 <br>
-Garrett Petersen
+Garrett Petersen B1
 <br>
 This is a basic portfolio for my Programming 1 class at Skyline High School
 <br>
